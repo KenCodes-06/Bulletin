@@ -1,2 +1,2 @@
-# Bulletin
-Literary Club MITE
+#Literary Club MITE
+Motivation
